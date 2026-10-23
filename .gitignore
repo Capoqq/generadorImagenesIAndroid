@@ -1,0 +1,21 @@
+.gradle/
+.cxx/
+.idea/
+build/
+**/build/
+local.properties
+*.iml
+*.apk
+*.aab
+# Pesos y modelos locales (referencias en README.md)
+*.mnn
+*.mnn.weight
+*.onnx
+*.safetensors
+*.tflite
+models/
+third_party/
+.wrapper-bootstrap/
+__pycache__/
+*.pyc
+.venv/
